@@ -1,6 +1,6 @@
-# Brain Stroke Prevention Platform
+# Brain Stroke Detection Platform
 
-An AI-powered platform for stroke risk assessment and prevention, providing personalized recommendations and health tracking.
+An AI-powered platform for stroke risk assessment and Detection, providing personalized recommendations and health tracking.
 
 ## Features
 

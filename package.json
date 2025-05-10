@@ -2,7 +2,7 @@
   "name": "brain-stroke-detection",
   "private": true,
   "version": "1.0.0",
-  "description": "AI-powered Brain Stroke Risk Assessment and Prevention Platform",
+  "description": "AI-powered Brain Stroke Risk Assessment and Detection Platform",
   "type": "module",
   "scripts": {
     "dev": "vite",

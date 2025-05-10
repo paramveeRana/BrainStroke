@@ -62,7 +62,7 @@ const Header = () => {
                 className="text-2xl font-extrabold tracking-tight font-inter hover:no-underline hover:bg-transparent group"
               >
                 <span className="bg-gradient-to-r from-primary to-primary-dark bg-clip-text text-transparent group-hover:scale-105 transition-transform">
-                  Brain Stroke Prevention
+                  Brain Stroke Detection
                 </span>
               </Button>
               

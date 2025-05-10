@@ -33,7 +33,7 @@ const FeaturesSection = () => {
             Key Features
           </span>
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Advanced Technology for Better Prevention
+            Advanced Technology for Better Detection
           </h2>
           <p className="text-neutral max-w-2xl mx-auto">
             Our system combines cutting-edge AI with medical expertise to provide accurate stroke risk assessment

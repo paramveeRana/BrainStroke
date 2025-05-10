@@ -13,10 +13,10 @@ const About = () => {
           {/* Hero Section */}
           <div className="text-center mb-16 backdrop-blur-sm bg-white/80 p-8 rounded-2xl shadow-xl border border-white/20 transition-all duration-300 hover:shadow-2xl hover:scale-[1.02]">
             <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-primary to-primary-dark bg-clip-text text-transparent">
-              About Brain Stroke Prevention
+              About Brain Stroke Detection
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Empowering individuals with AI-driven stroke risk assessment and prevention strategies
+              Empowering individuals with AI-driven stroke risk assessment and Detection strategies
             </p>
           </div>
 
@@ -30,22 +30,19 @@ const About = () => {
               <div className="backdrop-blur-sm bg-white/80 rounded-2xl shadow-xl border border-white/20 p-6 transition-all duration-300 hover:shadow-2xl hover:scale-[1.02]">
                 <h3 className="text-xl font-semibold mb-3">Paramveer Singh</h3>
                 <p className="text-muted-foreground mb-4">
-                  Full Stack Developer & ML Engineer
+                  Full Stack Developer & Flutter Developer
                 </p>
                 <p className="text-muted-foreground">
-                  Specializes in developing robust web applications and implementing machine learning models.
-                  Passionate about creating technology that makes a positive impact on healthcare.
+                I’m Paramveer Singh, a passionate Web and Flutter Developer. With hands-on experience in building responsive web and mobile applications, I specialize in crafting user-friendly interfaces and smooth user experiences using modern technologies.
                 </p>
               </div>
               <div className="backdrop-blur-sm bg-white/80 rounded-2xl shadow-xl border border-white/20 p-6 transition-all duration-300 hover:shadow-2xl hover:scale-[1.02]">
                 <h3 className="text-xl font-semibold mb-3">Nehal Dixit</h3>
                 <p className="text-muted-foreground mb-4">
-                  Mental Support & Project Inspiration
+                AI/ML Engineer
                 </p>
                 <p className="text-muted-foreground">
-                  The driving force behind the project's success through her unwavering support and encouragement.
-                  Her presence and belief in Paramveer's vision helped turn this idea into reality.
-                  A constant source of motivation and positive energy throughout the development journey.
+                  I’m Nehal Dixit, an enthusiastic AI/ML Engineer with a deep interest in machine learning, data-driven solutions, and model training. I specialize in designing intelligent systems that solve real-world problems using the power of data and algorithms.
                 </p>
               </div>
             </div>
@@ -122,7 +119,7 @@ const About = () => {
           <section className="text-center max-w-3xl mx-auto backdrop-blur-sm bg-white/80 rounded-2xl shadow-xl border border-white/20 p-8 transition-all duration-300 hover:shadow-2xl hover:scale-[1.02]">
             <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
             <p className="text-lg text-muted-foreground">
-              We're committed to making stroke prevention accessible to everyone through technology.
+              We're committed to making Stroke Detection accessible to everyone through technology.
               Our goal is to empower individuals with the knowledge and tools they need to understand
               and manage their stroke risk factors effectively.
             </p>

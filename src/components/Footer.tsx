@@ -13,10 +13,10 @@ const Footer = () => {
           {/* About Section */}
           <div className="space-y-4">
             <h3 className="text-lg font-semibold bg-gradient-to-r from-primary to-primary-dark bg-clip-text text-transparent">
-              Brain Stroke Prevention
+              Brain Stroke Detection
             </h3>
             <p className="text-sm text-muted-foreground">
-              AI-powered platform for early stroke risk assessment and prevention.
+              AI-powered platform for early stroke risk assessment and Detection.
             </p>
           </div>
 
@@ -58,9 +58,8 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">Contact</h3>
             <ul className="space-y-2 text-sm text-muted-foreground">
-              <li>Email: nehaldixit@brainstroke.ai</li>
-              <li>Phone: +91 6267-199559</li>
-              <li>Location: wow girls Hostel,Infront of fool mandi, 26,Amitesh Nagar, near kesharbagh bridge, Basant Puri Colony, Indore, Madhya Pradesh 452012</li>
+              <li>Email: iamparamveersisodiya@gmail.com</li>
+              <li>Email: nehaldixit61790@gmail.com</li>
             </ul>
           </div>
 
@@ -105,7 +104,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="mt-8 pt-4 border-t border-gray-200">
           <p className="text-center text-sm text-muted-foreground">
-            © {currentYear} Brain Stroke Prevention. All rights reserved.
+            © {currentYear} Brain Stroke Detection. All rights reserved.
           </p>
         </div>
       </div>
