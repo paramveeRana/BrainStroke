@@ -15,7 +15,7 @@ const HeroSection = () => {
       
       <div className="max-w-6xl mx-auto text-center relative z-10">
         <span className="inline-block px-6 py-3 rounded-full bg-white/80 backdrop-blur-sm border border-white/20 shadow-lg text-primary mb-8 animate-fade-up">
-          Advanced AI-Powered Prevention
+          Advanced AI-Powered Detection
         </span>
         
         <div className="backdrop-blur-sm bg-white/50 p-12 rounded-2xl border border-white/20 shadow-xl">
